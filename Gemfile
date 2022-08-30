@@ -8,7 +8,7 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
-
+gem "stock_quote", '~> 3.0.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
